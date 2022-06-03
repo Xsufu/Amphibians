@@ -15,4 +15,5 @@
   -->
 <resources>
     <string name="app_name">Amphibians</string>
+    <string name="details">Amphibian details</string>
 </resources>
